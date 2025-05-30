@@ -20,6 +20,6 @@
 /*Background Transperancy*/ html, .Root__top-container, .Root__now-playing-bar .main-nowPlayingBar-container { background-color: transparent !important; } .main-yourLibraryX-entryPoints, /* Left panel */ .Root__main-view, /* Middle panel */ #Desktop_PanelContainer_Id /* Right panel */ { background-color: #00000015 !important; } /* Bottom panel */ .Root__now-playing-bar .main-nowPlayingBar-container { background-image: none !important; }
 ```
 
-### [How to use Snippet](https://de4uth.org/csssinp.mp4)
+### [How to use Snippet](https://de4uth.org/csssnip.mp4)
 
 
