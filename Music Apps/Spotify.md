@@ -1,4 +1,4 @@
-# How to make Spotify Transparent
+# How to make Spotify Transparent (Credits to: Kodzumba)
 
 ## Requirements:
 1) [Windhawk](https://windhawk.net/)
