@@ -1,2 +1,2 @@
 # TranspearentWindiowsApps
-Guides on how to make app transparent in windows.
+Guides on how to make apps transparent in windows.
