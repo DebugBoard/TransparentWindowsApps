@@ -12,10 +12,13 @@
 1) [CEF/Spotify Tweaks](https://de4uth.org/spotifyconfig.mp4)
 2) [Translucent Windows Mod](https://de4uth.org/wtconfig.mp4)
 
-## CSS Snippet and Guide:
+## CSS Snippet and Guide <br>
 
 ### CSS Snippet: <br>
-  ``/*Background Transperancy*/ html, .Root__top-container, .Root__now-playing-bar .main-nowPlayingBar-container { background-color: transparent !important; } .main-yourLibraryX-entryPoints, /* Left panel */ .Root__main-view, /* Middle panel */ #Desktop_PanelContainer_Id /* Right panel */ { background-color: #00000015 !important; } /* Bottom panel */ .Root__now-playing-bar .main-nowPlayingBar-container { background-image: none !important; }``
+
+```
+/*Background Transperancy*/ html, .Root__top-container, .Root__now-playing-bar .main-nowPlayingBar-container { background-color: transparent !important; } .main-yourLibraryX-entryPoints, /* Left panel */ .Root__main-view, /* Middle panel */ #Desktop_PanelContainer_Id /* Right panel */ { background-color: #00000015 !important; } /* Bottom panel */ .Root__now-playing-bar .main-nowPlayingBar-container { background-image: none !important; }
+```
 
 ### [How to use Snippet](https://de4uth.org/csssinp.mp4)
 
