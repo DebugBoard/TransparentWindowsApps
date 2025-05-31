@@ -3,6 +3,8 @@
 ## Requirements
 1) [Vencord](https://vencord.dev/download/)
 2) [Mica For Everyone](https://www.youtube.com/watch?v=M7R1e_n8lhE)
+3) [Transparency Effects Enabled in Windows settings](https://de4uth.org/TransparencyEffects.png)
+
 
 ## Vencord Settings
 1) In the Vencord Settings Tab in Discord Settings![](https://de4uth.org/vencordsettingts.png)
