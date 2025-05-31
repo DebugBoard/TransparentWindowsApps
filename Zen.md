@@ -26,6 +26,7 @@
 3) Set these rules for Zen ![](https://de4uth.org/micafordisocrd.png)
 4) Make sure your Zen theme color contrast is set to 0 for it to look transparent.![](https://private-user-images.githubusercontent.com/73780892/445041611-aff8398c-9457-4842-bb44-32932cb99e23.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg2OTI3OTgsIm5iZiI6MTc0ODY5MjQ5OCwicGF0aCI6Ii83Mzc4MDg5Mi80NDUwNDE2MTEtYWZmODM5OGMtOTQ1Ny00ODQyLWJiNDQtMzI5MzJjYjk5ZTIzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTMxVDExNTQ1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRlNDcyMTY5NDY4MDM4MGE3OWI5Zjg2MzU3NTE0NjM1NjZiZWI3YmRlZDhhM2JlMGFhYWU0M2IzOTFmZTAyYjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oAGS5YcMij0hXMuALmsBz9CEo0K9x_pBq9qBgCJjf0I)
 
-
+## (Optional) Install Zen Internet
+ - Install [Zen Internet Extension](https://addons.mozilla.org/en-US/firefox/addon/zen-internet/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) to get transparency on most websites.
 
 
