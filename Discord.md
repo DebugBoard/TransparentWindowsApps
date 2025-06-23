@@ -17,6 +17,11 @@
 2) Set these rules for Discord ![](https://de4uth.org/micafordisocrd.png)
 
 
+## Discord Theme
+1) Set your theme to Ash (This setting is located in Appearance in Client settings) ![](https://de4uth.org/themedefualt.png)
+> [!NOTE]
+> If this wasn't already selected make sure to fully close and open discord.
+
 
 ## CSS (slightly modified version of Translucence by CapnKitten): <br>
 
