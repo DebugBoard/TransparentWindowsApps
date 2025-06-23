@@ -28,7 +28,7 @@
 ```
 :root {
   /* APP ELEMENTS */
-  --app-bg: --app-bg: rgba(0,0,0,0);
+  --app-bg: transparent;
   --app-blur: 0px;
   --app-margin: 24px;
   --app-radius: 10px;
